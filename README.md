@@ -1,0 +1,2 @@
+# Efficient-Parking
+A system which reduces the time wasted on parking vehicles. Availability of parking spaces are added to a database by counting the number of vehicles entering and leaving a floor. At the arrival of a new vehicle, database will update real time and you will be notified via the app. This data will be manipulated in order to give the full information you need to have a smooth parking experience.
